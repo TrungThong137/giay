@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865327915486",
+    "project_id": "ananas-6ec37",
+    "storage_bucket": "ananas-6ec37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865327915486:android:293f64a58076169036bd4f",
+        "android_client_info": {
+          "package_name": "com.example.giay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQCyKoiVKzPHmWwiEqa5hDF-ci_V_PAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
